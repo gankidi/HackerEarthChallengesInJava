@@ -1,0 +1,2 @@
+Change the case of string
+if character is uppercase change it to lower case and vice versa.
